@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Maliki1606
-- 👀 I’m interested in programming cool stuffs on computers and having fun with it
-- 💞️ I’m looking to collaborate on projects that concern machine learning and making games with unity
-- 📫 malikifofana36@gmail.com
+- 👋 Hi, I’m @Maliki1606  
+- 🚀 AI Engineer, Software Developer & Data Enthusiast  
+- 🧠 Building AI systems, automation platforms, scalable backend solutions, and intelligent agents  
+- 💻 Experienced in Python, AI/ML, LLMs, Azure, TypeScript, APIs, and full-stack development  
+- 🤝 Open to collaborating on AI, machine learning, SaaS, automation, and innovative software projects  
+- 🌍 Passionate about using technology to solve real-world problems and create impactful products  
+- 📫 Reach me at: malikifofana36@gmail.com
 
 <!---
 Maliki1606/Maliki1606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
